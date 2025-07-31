@@ -56,6 +56,4 @@ You can change them in app.py or insert more users in User table.
 
 
 
-Let’s connect and collaborate! Feel free to reach out for tech discussions, project collaborations!
-Linkedin:-https://www.linkedin.com/in/gangaravitejareddy-yaramareddy-33b538277/
 
