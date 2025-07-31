@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/5cd5eaa7-1c4b-498e-9b8f-0df80bc10bfa
 ## 🛠️ Setup Instructions
 
 1. Clone the repo:-
-   git clone https://github.com/raviteja2518/smartparking.git
+   git clone https://github.com/Abhinav2545/Parking-Management-System.git
    cd smartparking
 
 
